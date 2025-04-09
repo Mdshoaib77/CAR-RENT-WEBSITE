@@ -1,0 +1,31 @@
+[1mdiff --git a/clear b/clear[m
+[1mdeleted file mode 100644[m
+[1mindex bc16559..0000000[m
+[1m--- a/clear[m
+[1m+++ /dev/null[m
+[36m@@ -1,12 +0,0 @@[m
+[31m-[1mdiff --git a/index.html b/index.html[m[m
+[31m-[1mindex 9de7deb..838f665 100644[m[m
+[31m-[1m--- a/index.html[m[m
+[31m-[1m+++ b/index.html[m[m
+[31m-[36m@@ -27,6 +27,7 @@[m[m
+[31m-           <li><a href="#service">Services</a></li>[m[m
+[31m-           <li><a href="#ride">Ride</a></li>[m[m
+[31m-           <li><a href="#contact">Contact</a></li>[m[m
+[31m-[32m+[m[32m          <li><a href="#contact">git</a></li>[m[m
+[31m-           <li class="nav__links__btn">[m[m
+[31m-             <button class="btn">Sign Up</button>[m[m
+[31m-           </li>[m[m
+[1mdiff --git a/index.html b/index.html[m
+[1mindex de94169..52c8bbb 100644[m
+[1m--- a/index.html[m
+[1m+++ b/index.html[m
+[36m@@ -27,7 +27,7 @@[m
+           <li><a href="#service">Services</a></li>[m
+           <li><a href="#ride">Ride</a></li>[m
+           <li><a href="#contact">Contact</a></li>[m
+[31m-          <li><a href="#contact">git(button)</a></li>[m
+[32m+[m[32m          <li><a href="#contact">git(dropdown)</a></li>[m
+           <li class="nav__links__btn">[m
+             <button class="btn">Sign Up</button>[m
+           </li>[m
